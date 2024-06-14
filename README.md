@@ -2,4 +2,5 @@
 
 FaceCare Machine Learning model building with pre-trained model Xception
 
-Kaggle Notebook : https://www.kaggle.com/code/izzanbangkit/capstone-dataset-2-1
+Kaggle Notebook for viewing cell outputs : 
+https://www.kaggle.com/code/izzanbangkit/capstone-dataset-2-1 
